@@ -1,0 +1,10 @@
+body {
+    background-color: pink;
+}
+
+img {
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 80px;
+}
