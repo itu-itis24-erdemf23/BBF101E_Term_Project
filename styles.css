@@ -1,5 +1,6 @@
 body {
-    background-color: pink;
+    background-color: #FDD9DD;
+    color: #3e3939;
 }
 
 img {
@@ -7,4 +8,43 @@ img {
     display: block;
     margin: 0 auto;
     margin-top: 80px;
+}
+
+h3 {
+    margin-top: 0px;
+}
+
+h1{
+    margin-bottom: 0px;
+    background-color: palevioletred;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+div {
+    text-align: center;
+}
+
+h2 {
+    background-color: palevioletred;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+ul{
+    text-align: left;
+}
+
+.btn {
+    display: inline-block;
+    padding: 15px 20px;
+    background-color: #89f4d0;
+    color: #3e3939;
+    text-decoration: none;
+    font-weight:bolder;
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: #f4d290;
 }
