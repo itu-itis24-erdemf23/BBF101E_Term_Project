@@ -1,11 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="game_style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hangman Game</title>
 </head>
 <body>
     <h1>HANGMAN GAME</h1>
+    
+    <!-- Revealed Word Section -->
+    <div id="game-container">
+        <p id="revealed-word">_ _ _ _ _</p> <!-- Dynamically updates with guessed letters -->
+    </div>
+
+    <!-- Score and Lives -->
+    <div id="stats">
+        <p id="score">Score: 0</p>
+        <p id="lives">Lives: 3</p>
+    </div>
+
+    <!-- Input for Predictions -->
+    <div id="input-section">
+        <input type="text" id="guess-input" maxlength="5" placeholder="Enter letter or word">
+        <button id="submit-button">Submit</button>
+    </div>
+
+    <!-- Reset Button -->
+    <div id="reset-section">
+        <button id="reset-button">Reset Game</button>
+    </div>
+
+    <!-- Optional: Space for future visuals -->
+    <div id="letters-section">
+        <img src="S.svg" alt="the_letter_S" id="letter-s">
+        <img src="T.svg" alt="the_letter_T" id="letter-t">
+        <img src="O.svg" alt="the_letter_O" id="letter-o">
+        <img src="C.svg" alt="the_letter_C" id="letter-c">
+        <img src="K.svg" alt="the_letter_K" id="letter-k">
+    </div>
+
+    <div id="hearts">
+        <img src="heart.png" alt="heart" id="first_live">
+        <img src="heart.png" alt="heart" id="second_live">
+        <img src="heart.png" alt="heart" id="third_live">
+    </div>
+
+    <script src="game_script.js"></script>
 </body>
 </html>

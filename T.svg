@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="T.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.34431467"
+     inkscape:cx="1253.2141"
+     inkscape:cy="853.87008"
+     inkscape:window-width="1241"
+     inkscape:window-height="1020"
+     inkscape:window-x="14"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="8.71296"
+       y="31.94752"
+       width="1221.2666"
+       height="1067.3376"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 134.49406,456.92784 V 185.31342 H 59.754526 v 92.44786 H 14.962887 V 140.00095 H 308.45229 v 137.76033 h -44.79164 v -92.44786 h -74.47912 v 271.61442 h 47.13539 v 45.31247 H 88.139925 v -45.31247 z"
+       id="text1"
+       style="font-size:533.333px;font-family:Rockwell;-inkscape-font-specification:Rockwell;white-space:pre;fill:#3e3939;fill-opacity:1"
+       transform="matrix(1.5305167,0,0,1.3104062,-3.5733273,-170.23769)"
+       aria-label="T" />
+  </g>
+</svg>

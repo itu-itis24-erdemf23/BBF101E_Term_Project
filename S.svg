@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="S.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.40904583"
+     inkscape:cx="944.88189"
+     inkscape:cy="943.65953"
+     inkscape:window-width="1241"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="463.23904"
+       y="257.03232"
+       width="888.72192"
+       height="832.08768"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 144.33003,365.0687 q 7.8828,28.76902 21.28356,45.44198 13.40074,16.67294 34.68429,24.84596 21.28354,7.8461 54.78541,7.8461 46.11437,0 70.55102,-19.94217 24.83081,-19.94216 24.83081,-58.19187 0,-24.51905 -10.24764,-41.192 -10.24762,-16.67294 -33.50187,-31.38438 -23.25425,-14.71143 -70.94516,-34.32666 -46.11434,-18.96139 -72.91585,-36.94203 -26.8015,-18.30756 -40.20226,-39.55739 -13.00661,-21.24985 -13.00661,-46.42274 0,-36.615107 20.49527,-63.422589 20.8894,-27.134416 60.69753,-41.84584 40.20224,-14.71144 91.83456,-14.71144 29.95462,0 58.33268,2.615365 28.7722,2.615365 71.73342,11.769142 V 117.91671 H 373.71937 Q 364.65415,89.1477 350.85926,73.128594 337.06436,57.109471 318.53981,50.897991 q -18.52457,-6.538412 -48.08506,-6.538412 -25.61908,0 -46.11435,7.846095 -20.10113,7.846095 -31.92531,23.865201 -11.8242,15.69219 -11.8242,37.595875 0,23.21135 9.85349,39.23047 10.24764,16.01911 31.53118,29.74977 21.28355,13.73067 63.06236,30.73054 50.44988,20.92292 78.03967,38.90356 27.98393,17.98063 43.35537,41.19199 15.76559,22.88446 15.76559,53.61499 0,34.32666 -13.00661,58.19188 -13.00661,23.53828 -36.26086,38.57662 -22.86009,14.71143 -55.17956,21.57677 -31.92532,6.53841 -70.15687,6.53841 -61.87995,0 -142.67859,-17.3268 V 365.0687 Z"
+       id="text1"
+       style="font-size:400px;font-family:Cambria;-inkscape-font-specification:Cambria;white-space:pre;stroke-width:1.83788;fill:#3e3939;fill-opacity:1"
+       aria-label="S" />
+  </g>
+</svg>

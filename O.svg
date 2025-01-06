@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="O.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.34431467"
+     inkscape:cx="1036.8422"
+     inkscape:cy="965.6864"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="17.42592"
+       y="14.5216"
+       width="1850.0518"
+       height="1844.2432"
+       id="rect2" />
+    <rect
+       x="8.71296"
+       y="31.94752"
+       width="1221.2666"
+       height="1067.3376"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 475.0255,305.20188 q 0,85.33328 -64.53329,142.93325 -64.5333,57.59996 -152.53324,57.59996 -91.73328,0 -153.59991,-56.5333 -61.333294,-57.06663 -61.333294,-143.99991 0,-89.59994 62.933294,-145.06658 62.9333,-55.46663 151.99991,-55.46663 89.06661,0 153.06657,56.5333 63.99996,55.99997 63.99996,143.99991 z M 312.89227,159.60197 Q 296.89228,114.802 257.95897,114.802 q -19.73332,0 -34.13331,12.79999 -14.4,12.79999 -22.39999,37.33331 -7.46666,23.99999 -11.19999,62.39996 -3.2,37.86665 -3.2,77.86662 0,54.9333 4.26666,89.59995 4.26667,34.66664 15.99999,67.73329 11.73333,33.06665 50.66664,33.06665 19.73332,0 34.13331,-12.8 14.39999,-12.79999 21.86665,-36.79997 8,-24.53332 11.2,-62.39996 3.73333,-38.39998 3.73333,-78.39996 0,-47.46663 -3.2,-82.13328 -3.2,-35.19998 -12.79999,-63.46663 z"
+       id="text1"
+       style="font-size:533.333px;font-family:Elephant;-inkscape-font-specification:Elephant;white-space:pre;fill:#3e3939"
+       transform="matrix(1.1045105,0,0,1.1151035,-35.547034,-92.932105)"
+       aria-label="O" />
+  </g>
+</svg>
